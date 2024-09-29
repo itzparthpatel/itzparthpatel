@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/itzparthpatel/itzparthpatel/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.PNG)
 <h1 align="center">Hi 👋, I'm Parth Patel</h1>
 <h3 align="center">A passionate web designer of India</h3>
 
