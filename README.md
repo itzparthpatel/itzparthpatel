@@ -1,7 +1,8 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Parth Patel</h1>
 <h3 align="center">A passionate web designer of India</h3>
 
-<img align="right" alt="coading" width="400" src=>
+<img align="right" alt="coading" width="400" src=https://github.com/itzparthpatel/itzparthpatel/blob/main/IMG_8275.GIF>
 
 - 🔭 I’m currently working on **Project**
 
