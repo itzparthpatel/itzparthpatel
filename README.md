@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Parth Patel</h1>
 <h3 align="center">A passionate web designer of India</h3>
 
+<img align="right" alt="coading" width="400" src=>
+
 - 🔭 I’m currently working on **Project**
 
 - 🌱 I’m currently learning **Python , Java**
